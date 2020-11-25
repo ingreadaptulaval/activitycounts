@@ -1,4 +1,4 @@
-# Activity Counts from raw accelerometer data
+# Activity Counts from raw acceleration data
  Version 0.1 - 25 nov 2020
  
  This project provides an open-source algorithm to convert raw acceleration data into activity counts. 
